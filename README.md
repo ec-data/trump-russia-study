@@ -10,7 +10,7 @@ Feel free to use this as you wish!
 
 ### Basis
 
-Running rough statistical analysis on automated social media campaigns (read: spam) following any
+Running rough statistical analysis on automated social media campaigns (read: bot spam) following any
 media event about the current US administration has revealed common threads 
 all linked to a specific set of Russian technology companies and individuals. 
 
