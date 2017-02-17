@@ -7,15 +7,15 @@ not likely to all be true - but some of it should be confirmable.
 Dates related to Carter Page, Flynn, and Cohen visits overseas should be
 confirmable. Jill Stein as well though maybe unrelated.
 
-Cohen claims he did not visit Prague, but Italy (with a picture of his closed passport, why do that?). 
+Cohen claims he did not visit Prague, but Italy (with a picture of his closed passport, why do that? To make
+the news about it sound like he showed his full passport?). 
 Coincidentally these are both 'Schengen area' EU members which allow free travel 
 between themselves - around a one hour flight actually with no passport stamp, or much longer by train. 
 Report states Russia wanted to meet in 'operationally soft' EU countries to not add to growing 
 concerns about Trump team member visits to Russia.
 
-Who is/was the ethnic Russian individual (and source) involved in the Trump campaign?
-
-What is the exact meaning of 'ethnic' Russian with respect to the Queen's English?
+Who is/was the ethnic Russian individual (and source) involved in the Trump campaign? Felix Sater
+and associates come to mind.
 
 Trump has had business dealings with Russian oligarchs in the US, and he was asked to
 provide information on them to Putin/FSB. We should be able to build a reasonable list. 
