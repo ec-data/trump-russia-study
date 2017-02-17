@@ -48,7 +48,7 @@ Trump lawyer and family members/associates are extremely active on various socia
 trip to Greece/Italy (Nerano, Capri, Spetses, Skiathos, Malta) easily found through timestamp/EXIF data
 with photos in late July 2016 (they travel a lot, take pictures often).
 
-ShouldTrumpRun.com (Cohen, Stewart Rahr) in 2011/2012
+ShouldTrumpRun.com (Cohen, Stewart Rahr) in 2011/2012, related legal issues with FEC
 
 DraftTrump2012.com (Roger Stone, who has an extensive history of corruption) in 2011
 
