@@ -109,6 +109,20 @@ before they actually happened. Did WikiLeaks corroborate this? Seems strange tha
 any WikiLeaks affiliate would willingly interact with such an individual. Assange could
 be asked to comment.
 
+It is easy to think WikiLeaks is impartial, simply releasing information as it is provided,
+but keep in mind Assange has ties to Russia including a show on RT (state-owned news/propaganda machine)
+
+Assange contradictory public statements on Panama Papers (questioning the source 
+using 'Soros boogeyman' instead of the actual information, which is 
+entirely opposite of WikiLeak's typical stance)
+
+Can go back and review earlier major WikiLeaks postings (diplomatic cables, Palin emails, TPP, etc) 
+to determine if this has been a running theme at the organization. They have certainly
+disproportionally attacked Western targets/allies, but that may be attributed to these nations
+being much softer with information/whistleblowers than the authoritarian states. 
+Citizens of modern liberal democracies are also much more likely to consider leaks as 
+patriotic activity - especially after the vast surveillance apparatus exposed by Snowden.
+
 Trump has been accused (Financial Times researchers and others) of being 'bailed out' by Russian 
 sources (including criminal fronts) in a period of multiple bankruptcies in 2000s. 
 Trump Jr statement from this era: 'money is pouring in from Russia'. If there is any truth to 
@@ -123,6 +137,22 @@ Later realized Devos husband (huge political donor) is on the board at Spectrum 
 Devos also operates Alticor and Amway (blatant pyramid scheme). Amway operates in
 Russia and works with Alfa Bank. 'Alfa-Amway Program for Individual Business Owners'
 
+Trump server leak is very hard to prove without knowing who Tea Leaves works for, though it is
+true that security researchers are given access to DNS datasets to track major hacks/attacks. 
+More interesting would be to run analysis on the packets themselves and compare to 
+known secure communication methods (fingerprinting works on many forms of encryption
+currently in use, especially considering the low-tech approach in using this server) - 
+NSA likely already doing or did this.
+
+Another question on Tea Leaves leak: why would a DNS translation be involved at all - 
+skipping the middle man and using a (static) IP address would be obvious to any admin.
+More obvious would be to use a few hops instead of blatant direct connections and
+Trump owned domains.
+Many challenges on this one, though the raw data is certainly interesting. See graph
+provided in images for an overview.
+
+Claims that the server was rebooted under a different domain name and immediately
+contacted Alfa Bank. 'trump-email.com' to ''
 
 #### DEAD / MISSING / ARRESTED AFTER LEAK
 
