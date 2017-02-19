@@ -116,6 +116,10 @@ Trump Jr statement from this era: 'money is pouring in from Russia'. If there is
 this then Sergei Millian would be the gatekeeper (or Trump's full financial records, 
 which he refuses to release).
 
+'Tea Leaves' investigator reports odd DNS requests suggesting communication
+between Trump tower server and two Russian Alfa Bank servers - as well as Spectrum Health 
+servers oddly enough. Server is shutdown shortly after the report. 
+Later realized Devos husband (huge political donor) is on the board at Spectrum Health.
 
 #### DEAD / MISSING / ARRESTED AFTER LEAK
 
