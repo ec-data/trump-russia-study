@@ -121,6 +121,10 @@ between Trump tower server and two Russian Alfa Bank servers - as well as Spectr
 servers oddly enough. Server is shutdown shortly after the report. 
 Later realized Devos husband (huge political donor) is on the board at Spectrum Health.
 
+Devos also operates Alticor and Amway (blatant pyramid scheme). Amway operates in
+Russia and works with Alfa Bank. 'Alfa-Amway Program for Individual Business Owners'
+
+
 #### DEAD / MISSING / ARRESTED AFTER LEAK
 
 
