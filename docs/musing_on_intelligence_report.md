@@ -74,7 +74,7 @@ Relationship with Akbar al-Baker (CEO Qatar Airways)
 Relationship with Hussain Sajwani and associates
 
 Large payments received by Manafort (~12M) for aiding Russian coup 
-activity in Ukraine (Yanukovych and others)
+activity in Ukraine (Yanukovych and more)
 
 Manafort involvement with Ukrainian corporate asset transfer to Russian oligarchs
 
@@ -82,12 +82,13 @@ Yanukovych campaign strategy claiming 'election fraud' and calls for 'election o
 
 Many (nearly all?) Russian oligarchs in the US have property dealings in Florida or New York
 
-Example possible Russian/Soviet emigres/executives targeted by the proposed Putin-Trump information trade:
+Possible Russian/Soviet emigres/executives targeted by the proposed Putin-Trump information trade:
     Dmitry Rybolovlev,
     Felix Sater,
     Tevfik Arif,
     Various other Bayrock/FL Group employees and criminal connections,
     Tamir Sapir,
+    Alex Sapir,
     Mikhail Lesin,
     Roman Abramovich,
     Darya Zhukova,
@@ -105,6 +106,24 @@ with WikiLeaks, which would make sense given he tweeted innuendo about leaks wee
 before they actually happened. Did WikiLeaks corroborate this? Seems strange that 
 any WikiLeaks affiliate would willingly interact with such an individual. Assange could
 be asked to comment.
+
+Trump has been accused (Financial Times researchers and others) of being 'bailed out' by Russian 
+sources (including criminal fronts) in the period following multiple bankruptcies in 2000s. 
+Trump Jr statement from this era: 'money is pouring in from Russia'. If there is any truth to 
+this then Sergei Millian and associates would be the gatekeepers (or Trump's full financial records, 
+which he refuses to release).
+
+
+#### DEAD / MISSING / ARRESTED AFTER LEAK
+
+
+Oleg Erovinkin, widely discussed online as the likely Sechin mole shortly before his death
+
+Kaspersky and FSB ISC arrests: Sergey Mikhaylov, Ruslan Stoyanov for "treason:
+accepting payment to provide evidence on DNC hacking"
+
+Steele and close family are still missing (assumed to be in hiding)
+
 
 #### TRUMP CAMPAIGN ROOTS
 
@@ -124,3 +143,6 @@ research as far back as the 2008 campaigns. Clinton and McCain both reported to
 reject this strategy in articles from that period. It was used by others in 
 massive fundraising campaigns circa 2009 - coinciding and directly related to the 
 beginnings of the 'Tea Party' nationalist movement.
+
+
+
