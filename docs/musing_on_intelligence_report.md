@@ -152,7 +152,7 @@ Many challenges on this one, though the raw data is certainly interesting. See g
 provided in images for an overview.
 
 Claims that the server was rebooted under a different domain name and immediately
-contacted Alfa Bank. 'trump-email.com' to ''
+contacted Alfa Bank. 'trump-email.com' to 'trump1.contact-client.com'
 
 #### DEAD / MISSING / ARRESTED AFTER LEAK
 
