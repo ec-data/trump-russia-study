@@ -28,3 +28,5 @@ the tin-foil hats and take another look.
 
 
 **_Names have been intentionally left out but are easily found with a search engine_**
+
+[Living Document](https://github.com/ec-data/trump-russia-study/blob/master/docs/musing_on_intelligence_report.md)

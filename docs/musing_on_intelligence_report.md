@@ -15,8 +15,7 @@ Report states Russia wanted to meet in 'operationally soft' EU countries to not 
 concerns about Trump team member visits to Russia. There are no specific dates claimed but
 a general August 2016.
 
-Who is/was the ethnic Russian individual (and source) involved in the Trump campaign? Felix Sater
-and associates come to mind.
+Who is/was the ethnic Russian individual (and dossier source) close to the Trump campaign?
 
 Trump has had business dealings with Russian oligarchs in the US, and he was asked to
 provide information on them to Putin/FSB. We should be able to build a reasonable list. 
