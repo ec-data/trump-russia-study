@@ -63,6 +63,9 @@ Placement of ExxonMobil CEO Rex Tillerson as Secretary of State
 
 Rex Tillerson relationship with Igor Sechin (Rosneft CEO) and other Kremlin officials
 
+Richard Burt lobbyist activity for Russian pipeline while simultaneously advising 
+Trump for April 2016 speech (Burt also has history with Jeff Sessions)
+
 State-owned Qatar Airways (QA) had rented 'corporate campus' from Trump for years
 
 QA has been involved in failed lobbying attempts recently and accused of undercutting
@@ -117,7 +120,7 @@ which he refuses to release).
 #### DEAD / MISSING / ARRESTED AFTER LEAK
 
 
-Oleg Erovinkin, widely discussed online as the likely Sechin mole shortly before his death
+Oleg Erovinkin, widely discussed online as possible Sechin mole shortly before his death
 
 Kaspersky and FSB ISC arrests: Sergey Mikhaylov, Ruslan Stoyanov for "treason:
 accepting payment to provide evidence on DNC hacking"
