@@ -108,9 +108,9 @@ any WikiLeaks affiliate would willingly interact with such an individual. Assang
 be asked to comment.
 
 Trump has been accused (Financial Times researchers and others) of being 'bailed out' by Russian 
-sources (including criminal fronts) in the period following multiple bankruptcies in 2000s. 
+sources (including criminal fronts) in a period of multiple bankruptcies in 2000s. 
 Trump Jr statement from this era: 'money is pouring in from Russia'. If there is any truth to 
-this then Sergei Millian and associates would be the gatekeepers (or Trump's full financial records, 
+this then Sergei Millian would be the gatekeeper (or Trump's full financial records, 
 which he refuses to release).
 
 
